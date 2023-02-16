@@ -94,8 +94,8 @@ To run the project, execute the following command to download the repository in 
 
 With git bash,
 
-. git clone git@github.com:Mikey1-nuel/Hello-Microverse-project.git
-. cd Hello-Microverse-project
+- git clone git@github.com:Mikey1-nuel/Hello-Microverse-project.git
+- cd Hello-Microverse-project
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
