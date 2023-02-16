@@ -30,11 +30,13 @@
 
 # Hello Microverse Project <a name="about-project"></a>
 
-**Hello Microverse Project** is a project aimed to master all of the tools and best practices I will be using in all Microverse projects and most likely in my future job as well.
+**Hello Microverse Project** is a project aimed to master all of the tools and best practices I will be using in all Microverse projects and most likely in my future job as well. This project is meant to give an overview what projects are all about at Microverse and help us come up with a means to understand and successfully do the project so it meets professional standard.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### HTML-CSS <a name="tech-stack"></a>
+
+The tech stack in this project is HTML-CSS.
 
 <details>
   <summary>Client</summary>
@@ -44,14 +46,14 @@
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>eslint</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>postgresql</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
@@ -59,19 +61,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **HTML**
+- **CSS**
+- **LInters**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- file:///C:/Users/H/Documents/Hello-Microverse-project/index.html
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,20 +81,32 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+- Generate a ssh key to enable you clone the repository to your local machine.
+- Download and install a code editor of your choice like Visual studio code, Atom, Sublime etc.
+- Install node and a git command machine.
+
 
 ### Setup
 
 Clone this repository to your desired folder:
+
+- Copy the ssh code to the project repository.
+- Clone this repository using a git command machine to add the file locally to your desired folder.
+- Open the folder in your code editor to enable you edit the file as you desire.
 
 
 ### Install
 
 Install this project with:
 
+cd Hello-Microverse-project
+
 
 ### Usage
 
 To run the project, execute the following command:
+
+Since this project is not fully complete, I'd advice you can clone and rename this project to use for your  own purpose. 
 
 
 ### Run tests
@@ -115,16 +125,16 @@ You can deploy this project using:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
+👤 **Mikey1-nuel**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: https://www.linkedin.com/in/emmanuel-nwoye-5915141b8/
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: https://github.com/Mikey1-nuel
+- Twitter: https://twitter.com/Mikey_nuel
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -132,11 +142,8 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Javascript**
+- [ ] **React**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,15 +160,14 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project...
+If you like this project, please comment on the project. If you found an issue or would like to submit an improvement to this project, you can submit a pull request with a fix by referencing the issue that you created.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse Community for inspiring this project and codebase. It is a pleasure to have joined the program and I hope to learn a lot more as I progress.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
