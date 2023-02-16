@@ -12,20 +12,15 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 # Hello Microverse Project <a name="about-project"></a>
@@ -81,6 +76,7 @@ In order to run this project you need:
 - Generate a ssh key to enable you clone the repository to your local machine.
 - Download and install a code editor of your choice like Visual studio code, Atom, Sublime etc.
 - Install node and a git command machine.
+- Web browser.
 
 
 ### Setup
@@ -92,34 +88,20 @@ Clone this repository to your desired folder:
 - Open the folder in your code editor to enable you edit the file as you desire.
 
 
-### Install
-
-Install this project with:
-
-cd Hello-Microverse-project
-
-
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command to download the repository in your local machine:
 
-Since this project is not fully complete, I'd advice you can clone and rename this project to use for your  own purpose. 
+With git bash,
 
-
-### Run tests
-
-To run tests, run the following command:
-
-
-### Deployment
-
-You can deploy this project using:
+. git clone git@github.com:Mikey1-nuel/Hello-Microverse-project.git
+. cd Hello-Microverse-project
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 
 👤 **Mikey1-nuel**
